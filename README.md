@@ -26,3 +26,11 @@ Paper Name | Link
 --- | ---
 Hazard Pointers: Safe Memory Reclamation for Lock-Free Objects | https://dl.acm.org/doi/10.1109/TPDS.2004.8
 Split-ordered lists: Lock-free extensible hash tables| https://dl.acm.org/doi/10.1145/1147954.1147958
+Evolving Human Competitive Spectra-Based Fault Localisation Techniques | https://link.springer.com/chapter/10.1007/978-3-642-33119-0_18
+Optimizing Existing Software With Genetic Programming | https://ieeexplore.ieee.org/document/6733370
+
+## Mathematics
+Paper Name | Link 
+--- | ---
+Nonlinear random matrix theory for deep learning | https://iopscience.iop.org/article/10.1088/1742-5468/ab3bc3
+
